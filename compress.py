@@ -26,4 +26,4 @@ ax[0].set_title('Original Image', size=16)
 ax[1].imshow(flower_compressed)
 ax[1].set_title('20-color Image', size=16)
 
-plt.show()
+plt.show() 
